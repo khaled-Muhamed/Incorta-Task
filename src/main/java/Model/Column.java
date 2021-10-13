@@ -9,7 +9,6 @@ public class Column {
     private String function;
 
     public Column(){
-
     }
 
     public String getName() {
